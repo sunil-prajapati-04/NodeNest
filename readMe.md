@@ -74,7 +74,7 @@ backend/
 📦 Installation
 
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/sunil-prajapati-04/NodeNest
 cd backend
 npm install
 
